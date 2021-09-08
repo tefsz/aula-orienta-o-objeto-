@@ -6,7 +6,7 @@ namespace meuPrimeiroPrograma
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Mensagem Importante!");
         }
     }
 }
